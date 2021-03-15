@@ -1,0 +1,10 @@
+[package]
+name = "mediatrs"
+version = "0.1.0"
+authors = ["Yoandy Rodriguez Martinez <yoandy.rmartinez@gmail.com>"]
+edition = "2018"
+description = "A simple mediator library for your Rust applications"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
